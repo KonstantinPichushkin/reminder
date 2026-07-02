@@ -1,6 +1,6 @@
 # Reminder App
 
-A simple reminder app that plays a goofy sound every 30 minutes
+A simple reminder app that plays a goofy sound every 30 minutes 
 
 ## Requirements
 
